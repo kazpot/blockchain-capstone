@@ -1,0 +1,40 @@
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 0
+nextTokenId: 1
+TokenId 1 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+\currentTotalSupply: 1
+nextTokenId: 2
+TokenId 2 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 2
+nextTokenId: 3
+TokenId 3 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 3
+nextTokenId: 4
+TokenId 4 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 4
+nextTokenId: 5
+TokenId 5 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 5
+nextTokenId: 6
+TokenId 6 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 6
+nextTokenId: 7
+TokenId 7 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 7
+nextTokenId: 8
+TokenId 8 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 8
+nextTokenId: 9
+TokenId 9 has been minted successfully!!!!
+(venv) MacBook-Pro-Kaz:minter kaz$ node minter.js 
+currentTotalSupply: 9
+nextTokenId: 10
+TokenId 10 has been minted successfully!!!!
